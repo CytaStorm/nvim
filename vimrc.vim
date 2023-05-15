@@ -2,7 +2,6 @@ call plug#begin('~/AppData/Local/nvim/plugged')
 Plug 'nvim-tree/nvim-web-devicons' " optional
 Plug 'nvim-tree/nvim-tree.lua'
 Plug 'morhetz/gruvbox'
-Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-fugitive' 
 
 " nvim cmp
